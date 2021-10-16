@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/holly-react/static/css/main.ccd2dbe9.chunk.css",
-    "main.js": "/holly-react/static/js/main.51f612a1.chunk.js",
-    "main.js.map": "/holly-react/static/js/main.51f612a1.chunk.js.map",
-    "runtime-main.js": "/holly-react/static/js/runtime-main.a835f882.js",
-    "runtime-main.js.map": "/holly-react/static/js/runtime-main.a835f882.js.map",
-    "static/js/2.47998865.chunk.js": "/holly-react/static/js/2.47998865.chunk.js",
-    "static/js/2.47998865.chunk.js.map": "/holly-react/static/js/2.47998865.chunk.js.map",
+    "main.js": "/holly-react/static/js/main.3775f228.chunk.js",
+    "main.js.map": "/holly-react/static/js/main.3775f228.chunk.js.map",
+    "runtime-main.js": "/holly-react/static/js/runtime-main.57977715.js",
+    "runtime-main.js.map": "/holly-react/static/js/runtime-main.57977715.js.map",
+    "static/js/2.3adb274d.chunk.js": "/holly-react/static/js/2.3adb274d.chunk.js",
+    "static/js/2.3adb274d.chunk.js.map": "/holly-react/static/js/2.3adb274d.chunk.js.map",
     "index.html": "/holly-react/index.html",
     "static/css/main.ccd2dbe9.chunk.css.map": "/holly-react/static/css/main.ccd2dbe9.chunk.css.map",
-    "static/js/2.47998865.chunk.js.LICENSE.txt": "/holly-react/static/js/2.47998865.chunk.js.LICENSE.txt"
+    "static/js/2.3adb274d.chunk.js.LICENSE.txt": "/holly-react/static/js/2.3adb274d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a835f882.js",
-    "static/js/2.47998865.chunk.js",
+    "static/js/runtime-main.57977715.js",
+    "static/js/2.3adb274d.chunk.js",
     "static/css/main.ccd2dbe9.chunk.css",
-    "static/js/main.51f612a1.chunk.js"
+    "static/js/main.3775f228.chunk.js"
   ]
 }
