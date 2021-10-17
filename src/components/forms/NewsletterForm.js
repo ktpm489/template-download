@@ -112,15 +112,18 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Pharmacy_PhuongChau':
-				link = 'https://drive.google.com/file/d/1-D9CKW9Gn0XRz0I0K-pqpN8uINNqIIv4/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1-D9CKW9Gn0XRz0I0K-pqpN8uINNqIIv4/view?usp=sharing'
 				break
 
 			case 'Pharmacy_PhuocThien':
-				link = 'https://drive.google.com/file/d/14dq3Y-VSMwy6ltgT3cS0fplI-TWevYPk/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/14dq3Y-VSMwy6ltgT3cS0fplI-TWevYPk/view?usp=sharing'
 				break
 
 			case 'Pharmacy_PhucChau':
-				link = 'https://drive.google.com/file/d/1IfM_kkochgk-CuQmI6K5Wzi1xoEVhQAa/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1IfM_kkochgk-CuQmI6K5Wzi1xoEVhQAa/view?usp=sharing'
 				break
 
 			case 'Pharmacy_NhiTrung':
@@ -134,11 +137,13 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Pharmacy_MinhTHu':
-				link = 'https://drive.google.com/file/d/1IL-fRWViVjAlTFPi-98t0on9rXW5wosf/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1IL-fRWViVjAlTFPi-98t0on9rXW5wosf/view?usp=sharing'
 				break
 
 			case 'Pharmacy_MaiLinh':
-				link = 'https://drive.google.com/file/d/1McA-tJZwdgzExQrrRKaBwCTws1tHOoVK/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1McA-tJZwdgzExQrrRKaBwCTws1tHOoVK/view?usp=sharing'
 				break
 
 			case 'Pharmacy_LocPhat':
@@ -157,15 +162,18 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Pharmacy_HoangPhuc':
-				link = 'https://drive.google.com/file/d/1QV8yx74SmmAN_IquBzGacahCehwyTxsG/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1QV8yx74SmmAN_IquBzGacahCehwyTxsG/view?usp=sharing'
 				break
 
 			case 'Pharmacy_HienMai':
-				link = 'https://drive.google.com/file/d/1brFXSG-jliJd8Ti3YsqEgWI-X1hf7Hyr/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1brFXSG-jliJd8Ti3YsqEgWI-X1hf7Hyr/view?usp=sharing'
 				break
 
 			case 'Pharmacy_BaoTin':
-				link = 'https://drive.google.com/file/d/1k6EBZtGij6-3VTFq40qttsG9ZZ9u2YP6/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1k6EBZtGij6-3VTFq40qttsG9ZZ9u2YP6/view?usp=sharing'
 				break
 
 			case 'Pharmacy_BaoDanh':
@@ -183,7 +191,8 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Cosmetics_Karethy':
-				link = 'https://drive.google.com/file/d/1IjR_y-DPGdI8gzntogxcB5jY1BAuQT_S/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1IjR_y-DPGdI8gzntogxcB5jY1BAuQT_S/view?usp=sharing'
 				break
 
 			case 'Cosmetics_TopWhite':
@@ -197,7 +206,8 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Cosmetics_Sharyn':
-				link = 'https://drive.google.com/file/d/1YgrTvJiS_vM1u5JE1MJvLtHFwpHwGk-P/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1YgrTvJiS_vM1u5JE1MJvLtHFwpHwGk-P/view?usp=sharing'
 				break
 
 			case 'Cosmetics_Sammy':
@@ -206,15 +216,18 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Cosmetics_Orchard':
-				link = 'https://drive.google.com/file/d/1QQHcgM7aT0M4VJXy3LK-VDe1Vi7chwkW/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1QQHcgM7aT0M4VJXy3LK-VDe1Vi7chwkW/view?usp=sharing'
 				break
 
 			case 'Cosmetics_MinhKhuong':
-				link = 'https://drive.google.com/file/d/13O5TaYtGTZV-ova8_fD6UCuCX_YRJH_y/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/13O5TaYtGTZV-ova8_fD6UCuCX_YRJH_y/view?usp=sharing'
 				break
 
 			case 'Cosmetics_Medicare':
-				link = 'https://drive.google.com/file/d/1Xm1llmRejGpxJ24-xUz-7Cx568XXy0Ip/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/1Xm1llmRejGpxJ24-xUz-7Cx568XXy0Ip/view?usp=sharing'
 				break
 
 			case 'Cosmetics_iDrSkin':
@@ -238,7 +251,8 @@ class NewsletterForm extends Component {
 				break
 
 			case 'Cosmetics_Charming':
-				link = 'https://drive.google.com/file/d/12FC0NtcRjZ5XdF9lSFLmiklNQ3TIM-s4/view?usp=sharing'
+				link =
+					'https://drive.google.com/file/d/12FC0NtcRjZ5XdF9lSFLmiklNQ3TIM-s4/view?usp=sharing'
 				break
 
 			case 'Cosmetics_AnhEmBacSi':
