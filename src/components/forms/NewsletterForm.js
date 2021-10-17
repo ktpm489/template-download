@@ -8,8 +8,11 @@ class NewsletterForm extends Component {
 	}
 
 	clickData = () => {
-		console.log('window', window.location.href.split('/').pop())
-		const params = window.location.href.split('/').pop()
+		// console.log('window', window.location.href.split('/').pop())
+		// const params = window.location.href.split('/').pop()
+		const urlParams = new URLSearchParams(window.location.search)
+		console.log(urlParams.get('company'))
+		const params = urlParams.get('company')
 		let link = ''
 		// window.open(
 		// 	'https://drive.google.com/uc?export=download&id=16UuLxDGioUJxrSlRMpVgVGjil5MlUMfj'
