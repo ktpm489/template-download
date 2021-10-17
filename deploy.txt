@@ -2,4 +2,4 @@
 2. npm run deploy
 3.npm run service
 4.serve -s build          
-5.netlify deploy
+5.netlify deploy folder build
