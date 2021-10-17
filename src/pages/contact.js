@@ -21,6 +21,7 @@ export default function ContactPage() {
 					</p>
 					<p>Email: hi@tikitech.vn</p>
 					<p>Liên hệ: 0903 969 952</p>
+					<a href="https://tikitech.vn/">https://tikitech.vn/</a>
 				</ArticleContent>
 
 				<ArticleMedia>
