@@ -1,11 +1,11 @@
 const precacheConfig = [
-	['/holly-react/index.html', 'e1edbce9eafd5379ab90c476cf55b849'],
+	['/index.html', 'e1edbce9eafd5379ab90c476cf55b849'],
 	[
-		'/holly-react/static/css/main.4b8faf44.css',
+		'/static/css/main.4b8faf44.css',
 		'51a751b7b2c08f14114be860aedcbc7c',
 	],
 	[
-		'/holly-react/static/js/main.e19609a5.js',
+		'/static/js/main.e19609a5.js',
 		'46810a23322cf57b9dab23fc7bd259de',
 	],
 ]
@@ -126,7 +126,7 @@ self.addEventListener('install', (e) => {
 			const r = 'index.html'
 			;(e = urlsToCacheKeys.has(n)) ||
 				((n = addDirectoryIndex(n, r)), (e = urlsToCacheKeys.has(n)))
-			const a = '/holly-react/index.html'
+			const a = '/index.html'
 			!e &&
 				t.request.mode === 'navigate' &&
 				isPathWhitelisted(['^(?!\\/__).*'], t.request.url) &&

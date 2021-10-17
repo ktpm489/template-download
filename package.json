@@ -1,8 +1,8 @@
 {
-  "name": "holly_react",
+  "name": "template_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lukemcdonald.github.io/holly-react",
+  "homepage": "https://lukemcdonald.github.io",
   "scripts": {
     "build:css": "postcss src/assets/css/postcss.css -o src/assets/css/style.css --no-map",
     "build:js": "react-scripts build",

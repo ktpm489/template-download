@@ -1,0 +1,5 @@
+1. Remove /holly-react in all files
+2. npm run deploy
+3.npm run service
+4.service -b
+5.netify deploy

@@ -10,12 +10,24 @@ export default function ContactPage() {
 	return (
 		<Layout>
 			<Article>
-				<ArticleContent title="Contact">
-					<p>Add your contact information here.</p>
+				<ArticleContent title="Thông tin liên hệ">
+					<p
+						style={{ whiteSpace: 'pre' }}
+					>{`CÔNG TY TNHH CÔNG NGHỆ TIKITECH `}</p>
+					<p>Mã số Thuế: 0316352946 </p>
+					<p>
+						Địa chỉ: Số 91 Đường N1, Khu dân cư Hiệp Thành Phường Hiệp Thành,
+						Quận 12, Thành phố Hồ Chí Minh
+					</p>
+					<p>Email: hi@tikitech.vn</p>
+					<p>Liên hệ: 0903 969 952</p>
 				</ArticleContent>
 
 				<ArticleMedia>
-					<img src="https://picsum.photos/420/640" alt="Lorem Picsum" />
+					<img
+						src="https://tikitech.vn/resources/form-placeholder.svg"
+						alt="Lorem Picsum"
+					/>
 				</ArticleMedia>
 			</Article>
 		</Layout>
