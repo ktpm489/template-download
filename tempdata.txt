@@ -4,7 +4,7 @@ Spa_SongNgoc - https://drive.google.com/file/d/1gUUAleE7HfCDoMYQ98FzQ2oEAVcZxY4C
 Spa_ShynhHouse -  https://drive.google.com/file/d/1-OZ60bwsucHFoH00qAwQ0JBMaz7_jNeP/view?usp=sharing
 Spa_Sen - https://drive.google.com/file/d/1fFpi9IzCgj2BIruQmnA0oOExIjzwiTs8/view?usp=sharing
 Spa_QuocTe - https://drive.google.com/file/d/18m3osZlLnADkfaGd5boDq8uYOT2vwmuM/view?usp=sharing
-Spa_kay - https://drive.google.com/file/d/1yS_VcB9rRdac3YzvrKtDTLbVMkTGE_W6/view?usp=sharing
+Spa_Kay - https://drive.google.com/file/d/1yS_VcB9rRdac3YzvrKtDTLbVMkTGE_W6/view?usp=sharing
 Spa_HoaiAnh - https://drive.google.com/file/d/1TYYgVxYHOAgeIgg8E890EoxgEvefzya5/view?usp=sharing
 Spa_DrHaiLe - https://drive.google.com/file/d/1idj7Bp0-z3OFYpLkXf651aMSy3FQm5U_/view?usp=sharing
 Spa_Diva- https://drive.google.com/file/d/1A9qwY3won-6FL8iQcFcYqH64qPVnHn86/view?usp=sharing
@@ -32,7 +32,7 @@ Pharmacy_MaiLinh - https://drive.google.com/file/d/1McA-tJZwdgzExQrrRKaBwCTws1tH
 Pharmacy_LocPhat - https://drive.google.com/file/d/1829SUUdlP0Fz5zOuEiRAnJCxlbzLvS8S/view?usp=sharing
 Pharmacy_KhoeVaDep - https://drive.google.com/file/d/1nZSVF6xhwW2vIVf8NrKwKY0qBO0NB6K9/view?usp=sharing
 Pharmacy_HongMinh- https://drive.google.com/file/d/1waF3K8r3cpACBFR4PNqPk8YwPz5s2bAQ/view?usp=sharing
-Pharmacy-HoangPhuc- https://drive.google.com/file/d/1QV8yx74SmmAN_IquBzGacahCehwyTxsG/view?usp=sharing
+Pharmacy_HoangPhuc- https://drive.google.com/file/d/1QV8yx74SmmAN_IquBzGacahCehwyTxsG/view?usp=sharing
 Pharmacy_HienMai - https://drive.google.com/file/d/1brFXSG-jliJd8Ti3YsqEgWI-X1hf7Hyr/view?usp=sharing
 Pharmacy_BaoTin - https://drive.google.com/file/d/1k6EBZtGij6-3VTFq40qttsG9ZZ9u2YP6/view?usp=sharing
 Pharmacy_BaoDanh - https://drive.google.com/file/d/1ad6ygAmGrXS1Ko_Ce__70LUP_MsfyDKd/view?usp=sharing

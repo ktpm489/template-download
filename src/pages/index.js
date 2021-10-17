@@ -7,8 +7,8 @@ export default function IndexPage() {
 	return (
 		<Layout>
 			<Hero
-				title="Landing template for startups"
-				content="Our landing page template works for all the devices, so you only have to setup it once, and get beautiful results forever."
+				title="Bản dùng thử"
+				content="Trải nghiệm bản dùng thử miễn phí các chức năng của hệ thống và ứng dụng cho doanh nghiệp của bạn"
 				illustration={HeroIllustration}
 			/>
 		</Layout>
