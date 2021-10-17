@@ -56,3 +56,4 @@ Cosmetics_AnhEmBacSi - https://drive.google.com/file/d/1XYS9E8SHBEOiMqQJ_pdvJkC6
 Cosmetics_ABBeautyWorld- https://drive.google.com/file/d/1mkkdzYqtsnxz94hXGH5S1JLfJCKkY-qk/view?usp=sharing
 Cosmetics_AnSan - https://drive.google.com/file/d/1DZEj0S_QV6wgb5b0wn-KCZZu8fTPW17G/view?usp=sharing
 
+Format : http://localhost:3000/?company=abc
